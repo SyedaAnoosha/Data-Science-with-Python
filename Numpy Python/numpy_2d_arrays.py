@@ -8,10 +8,7 @@ print(np_2d[0,2])
 print(np_2d[0][0:3])
 print(np_2d[0])
 
-baseball = [[180,78.4],
-            [215,102.7],
-            [210,98.5],
-            [188,75.2]]
+baseball = [[180,78.4], [215,102.7], [210,98.5], [188,75.2]]
 np_baseball = np.array(baseball)
 print(type(np_baseball))
 print(np_baseball.shape)
