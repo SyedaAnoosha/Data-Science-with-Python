@@ -19,11 +19,3 @@ A DataFrame is a table. It contains an array of individual entries, each of whic
 A Series, by contrast, is a sequence of data values. If a DataFrame is a table, a Series is a list. And in fact you can create one with nothing more than a list:
 
     `pd.Series([1, 2, 3, 4, 5])`
-    
-    Output:
-    0    1
-    1    2
-    2    3
-    3    4
-    4    5
-    dtype: int64
