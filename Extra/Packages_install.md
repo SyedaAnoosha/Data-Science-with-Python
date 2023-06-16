@@ -26,7 +26,6 @@ For example, to uninstall the NumPy package, you would use the following command
 
     `pip uninstall numpy`
 
-
 For more information on pip, you can visit the [Pip documentation](https://pip.pypa.io/en/stable/).
 
 I hope this helps!
