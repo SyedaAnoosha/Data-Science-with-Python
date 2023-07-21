@@ -1,4 +1,4 @@
-# [Data Science with Python](#data-science-with-python)
+# [Data Science with Python](https://github.com/SyedaAnoosha/Data-Science-with-Python)
 
 This repository contains all my work during learning <b>Data Science</b>. It is based on Python.  
 
