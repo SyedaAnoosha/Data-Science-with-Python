@@ -10,3 +10,6 @@ Python Libraries that I have used:
 
 Topics that I have covered:
 1. Statistics
+2. Data Visualization
+3. Data Manipulation
+   
