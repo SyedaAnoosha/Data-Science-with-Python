@@ -10,6 +10,9 @@ Python Libraries that I have used:
 
 Topics that I have covered:
 1. Statistics
-2. Data Visualization
-3. Data Manipulation
+2. Data Visualization with Seaborn
+3. Data Visualization with Matplotlib
+4. Data Manipulation
+5. [Exploratory Data Analysis](/Exploratory%20Data%20Analysis/)
+6. 
    
