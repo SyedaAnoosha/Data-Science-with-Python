@@ -1,5 +1,7 @@
 # [Data Science with Python](https://github.com/SyedaAnoosha/Data-Science-with-Python)
 
+![Data Science with Python](https://www.analyticsinsight.net/wp-content/uploads/2021/08/7-Benefits-of-Data-Science.jpg)
+
 This repository contains all my work during learning <b>Data Science</b>. It is based on Python.  
 
 ## Python Libraries
